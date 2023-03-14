@@ -1,0 +1,38 @@
+{
+    "Physics": {
+      "Set 1": [
+        {
+          "question": "Who was the first President of the United States?",
+          "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John F. Kennedy"],
+          "answer": "George Washington"
+        },
+        {
+          "question": "What event led to the start of World War II?",
+          "options": ["The assassination of Archduke Franz Ferdinand", "The sinking of the Lusitania", "The invasion of Poland", "The bombing of Pearl Harbor"],
+          "answer": "The invasion of Poland"
+        },
+        {
+          "question": "Who was the first female Prime Minister of the United Kingdom?",
+          "options": ["Margaret Thatcher", "Angela Merkel", "Theresa May", "Indira Gandhi"],
+          "answer": "Margaret Thatcher"
+        }
+      ],
+      "Set 2": [
+        {
+          "question": "Who was the first Emperor of Rome?",
+          "options": ["Julius Caesar", "Augustus", "Nero", "Caligula"],
+          "answer": "Augustus"
+        },
+        {
+          "question": "What was the name of the ship that Charles Darwin sailed on during his famous voyage?",
+          "options": ["The Beagle", "The Titanic", "The Mayflower", "The Santa Maria"],
+          "answer": "The Beagle"
+        },
+        {
+          "question": "Who was the first President of the Soviet Union?",
+          "options": ["Joseph Stalin", "Leon Trotsky", "Vladimir Lenin", "Mikhail Gorbachev"],
+          "answer": "Mikhail Gorbachev"
+        }
+      ]
+    }
+}
